@@ -1,6 +1,7 @@
 # Lane_detection
  Lane Detection is project based on Computer vision to detect the Lanes on the road. in Autonoumous Car Lane detecion is basic feature.
- A) Pre_requsites :
+ 
+ A)Prerequisite :
 
 #1) Python : Python 2.6, 2.7, or 3.3+ (required)
 
